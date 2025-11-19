@@ -41,8 +41,9 @@ http://localhost:4000
 
 ## 🔌 API Usage
 Some sample spells from the TaskHub grimoire:
----
+
 ### 📘 GET /tasks
+---
 Retrieve all tasks — aka "What mess have I created?"
 
 #### Response
@@ -58,6 +59,7 @@ Retrieve all tasks — aka "What mess have I created?"
 ```
 ---
 ### ➕ POST /tasks
+---
 Create a shiny new task.
 
 #### Response
@@ -94,7 +96,6 @@ We love contributions almost as much as Go loves strict typing.
 5. Bask in glory
 
 ## ⭐ Extras
---
 #### 📁 Project Structure
 ```
 taskhub-go/
