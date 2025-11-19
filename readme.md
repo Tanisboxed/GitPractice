@@ -13,7 +13,7 @@ It’s simple, clean, and built with Go, meaning it runs fast enough to make you
 ## ⚙️ Prerequisites
 Before you summon the backend gods, make sure you have:
 - Golang ≥ 1.20 (Go old or go home)
-- MongoDB (local or Atlas — whichever crashes less for you)
+- MongoDB (local or Atlas, whichever crashes less for you)
 - A .env file with:
 ```
 PORT=4300
