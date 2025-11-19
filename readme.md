@@ -6,6 +6,19 @@ It helps you create, update, delete, and track tasks with simple, clean REST API
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Node](https://img.shields.io/badge/node-%3E%3D16.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-yellow)
 
+## 📦 Project Overview
+TaskHub lets you create, read, update, and delete tasks like a productivity wizard.  
+It’s simple, clean, and built with Go — meaning it runs fast enough to make your Java backend cry.
+
+## ⚙️ Prerequisites
+Before you summon the backend gods, make sure you have:
+- Golang ≥ 1.20 (Go old or go home)
+- MongoDB (local or Atlas — whichever crashes less for you)
+- A .env file with:
+```
+PORT=4300
+MONGO_URI=mongodb://localhost:27017/taskhub
+```
 
 
 ## <a name="issues">Issues 🙈</a>
