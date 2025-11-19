@@ -115,4 +115,4 @@ If my code sucks, please open an issue and let me know!
 
 #### Like the work? 😍
 
-Consider giving the repository a ⭐️  or [Buy Me A Coffee]()
+Consider giving the repository a ⭐️  or [Buy Me A Coffee](buymeacoffee.com/Tanisboxed)
