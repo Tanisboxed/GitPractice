@@ -107,6 +107,18 @@ taskhub-go/
  ├─ main.go
  └─ README.md
 ```
+## 🧰Tech Stack
+- Golang
+- MongoDB
+- Mongo Go Driver
+- godotenv
+(Basically Go + stuff that makes Go hurt less.)
+
+## 💡Future Enhancements
+- 🔒 JWT auth
+- 🉐 Tags & priorities
+- 🔍 Search & filtering
+- 📆 Recurring tasks
 
 ## 🐵 Issues
 If my code sucks, please open an issue and let me know!
