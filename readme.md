@@ -6,3 +6,14 @@ It helps you create, update, delete, and track tasks with simple, clean REST API
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Node](https://img.shields.io/badge/node-%3E%3D16.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-yellow)
 
+
+
+## <a name="issues">Issues 🙈</a>
+
+If my code sucks, please open an issue and let me know!
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF4OHY5ZDQydmF2NjloajN4MDZoeWJ6NGE1dmJnZzVhb2RhdTdkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1ybQjHgteZLa/giphy.webp" height="65" alt="Buzz GIF" title="Buzz GIF">
+
+#### Like the work? 😍
+
+Consider giving the repository a ⭐️  
