@@ -1,6 +1,6 @@
 ![TaskHub Logo](https://raw.githubusercontent.com/Tanisboxed/GitPractice/main/taskhubimg.png)
 
-# **TaskHub **
+# **TaskHub**
 TaskHub is a lightweight, developer-friendly Task Management API built using Golang.
 It helps you create, update, delete, and track tasks with simple, clean REST APIs — perfect for learning backend concepts or powering small productivity tools.
 
